@@ -34,7 +34,7 @@ git clone https://github.com/deathsec/instagram-py
  sudo pip3 install instagram-py --upgrade
   sudo pip3 install requests --upgrade
    sudo pip3 install requests[socks]
-    sudo pip3 install instagram-py  
-     instagram-py -cc
-      instagram-py -u your_account_username -pl path_to_password_list
+  sudo pip3 install instagram-py  
+ instagram-py -cc
+instagram-py -u your_account_username -pl path_to_password_list
 ```
