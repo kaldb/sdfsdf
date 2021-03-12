@@ -6,7 +6,23 @@
  - METHODS
 
 ## PHISHING
+**KURO-CODE**
+*USED IN KALI*
 ```
-ASDADSA
+git clone https://github.com/KURO-CODE/Skeleton
+  cd Skeleton
+    chmod +x skeleton.sh
+      ./skeleton.sh
+
+ALTERNATIVE:
+cd Skeleton
+  sudo bash ./skeleton.sh
+```
+**BLACK-EYE**
+*USED IN KALI*
+```
+git clone https://github.com/thelinuxchoice/blackeye
+  cd blackeye
+    bash blackeye.sh
 ```
  
