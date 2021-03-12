@@ -26,3 +26,15 @@ git clone https://github.com/thelinuxchoice/blackeye
     bash blackeye.sh
 ```
  
+## BRUTE-FORCE
+**DEATHSEC/INSTAGRAM-PY**
+*USED IN KALI*
+```
+git clone https://github.com/deathsec/instagram-py
+ sudo pip3 install instagram-py --upgrade
+  sudo pip3 install requests --upgrade
+   sudo pip3 install requests[socks]
+    sudo pip3 install instagram-py  
+     instagram-py -cc
+      instagram-py -u your_account_username -pl path_to_password_list
+      ```
