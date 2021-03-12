@@ -50,3 +50,22 @@ git clone https://github.com/deathsec/instagram-py
  
 instagram-py -u your_account_username -pl path_to_password_list
 ```
+## DDOS
+**MEMECRASHED**
+*USED IN KALI*
+```
+git clone https://github.com/649/Memcrashed-DDoS-Exploit.git
+
+  cd Memcrashed-DDoS-Exploit
+  
+    echo "SHODAN_KEY" > api.txt
+    
+  docker build -t memcrashed .
+  
+docker run -it memcrashed
+
+Prerequisites:
+apt-get install python3
+  pip install scapy
+pip install shodan
+```
