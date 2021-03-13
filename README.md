@@ -50,7 +50,10 @@ instagram-py -u your_account_username -pl path_to_password_list
 *USED IN KALI*
 ```
 git clone https://github.com/Ha3MrX/DDos-Attack
+
  cd DDos-Attack
+ 
   chmod +x ddos-attack.py
+  
    python ddos-attack.py
 ```
